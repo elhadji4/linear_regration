@@ -38,6 +38,9 @@ const App = () => {
         deleteTask={deleteTask} 
         toggleComplete={toggleComplete} 
       />
+      <footer>
+        <p>© 2024 Nahim Company. All rights reserved.</p>
+      </footer>
     </div>
   );
 };
