@@ -24,15 +24,15 @@ input, textarea {
 button {
   margin: 5px;
   padding: 10px 20px;
-  background-color: #4CAF50; /* Green background for buttons */
-  color: white; /* White text for buttons */
+  background-color: #4CAF50; 
+  color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #45a049; /* Darker green on hover */
+  background-color: #45a049; 
 }
 
 .task {
