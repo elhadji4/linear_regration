@@ -29,7 +29,7 @@ const App = () => {
     <div className="App">
       <header>
         <h1>To-Do List</h1>
-        <p>Manage your tasks efficiently.</p>
+        <p>Gérez vos tâches efficacement.</p>
       </header>
       <AddTask addTask={addTask} />
       <TaskList 
@@ -39,7 +39,7 @@ const App = () => {
         toggleComplete={toggleComplete} 
       />
       <footer>
-        <p>© 2024 Your Company. All rights reserved.</p>
+        <p>© 2024 Votre entreprise. Tous droits réservés.</p>
       </footer>
     </div>
   );
